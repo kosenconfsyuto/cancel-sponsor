@@ -1,0 +1,40 @@
+{
+  "name": "cancel-sponsor",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "email:dev": "email dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosenconfsyuto/cancel-sponsor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosenconfsyuto/cancel-sponsor/issues"
+  },
+  "homepage": "https://github.com/kosenconfsyuto/cancel-sponsor#readme",
+  "description": "",
+  "dependencies": {
+    "@react-email/components": "0.0.33",
+    "@types/react": "^19.0.10",
+    "dotenv": "^16.4.7",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "mysql2": "^3.13.0",
+    "prettier": "^3.5.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "resend": "^4.1.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "react-email": "3.0.7",
+    "typescript-eslint": "^8.26.1"
+  }
+}
