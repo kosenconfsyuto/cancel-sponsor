@@ -85,5 +85,4 @@ const processEmails = async (): Promise<void> => {
   }
 };
 
-// 初回実行
 processEmails();
