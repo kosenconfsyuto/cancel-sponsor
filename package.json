@@ -18,7 +18,7 @@
   "homepage": "https://github.com/kosenconfsyuto/cancel-sponsor#readme",
   "description": "",
   "dependencies": {
-    "@react-email/components": "0.0.33",
+    "@react-email/components": "0.0.34",
     "@types/react": "^19.0.10",
     "dotenv": "^16.4.7",
     "eslint-config-prettier": "^10.1.1",
