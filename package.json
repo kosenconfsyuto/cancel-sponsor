@@ -25,7 +25,7 @@
     "eslint-plugin-prettier": "^5.2.3",
     "mysql2": "^3.13.0",
     "prettier": "^3.5.3",
-    "react": "19.2.7",
+    "react": "19.2.8",
     "react-dom": "19.2.7",
     "resend": "^6.0.0"
   },
